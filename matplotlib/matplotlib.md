@@ -1,6 +1,18 @@
----
-noteId: "13375d70a61d11eb82ace9c5f6b46b17"
-tags: []
 
----
+# Introduction to Matplotlib
+
+## Matplotlib's Pylot Interface
+
+### Transfor Datasets into Visualizations
+
+Types of datasets include:
+* Pandas DataFrames
+* Lists, tuples and dictionaries
+* NumPy arrays
+
+Types of visualizations include:
+* Bar charts
+* Pie charts
+* Line charts
+* Scatter plots
 
